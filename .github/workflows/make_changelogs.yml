@@ -25,6 +25,6 @@ jobs:
       - name: Make CL
         env:
           BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
-          GIT_EMAIL: "place_holder"
+          GIT_EMAIL: "80083319+BS12Changelogs@users.noreply.github.com"
           GIT_NAME: "BS12Changelogs"
         run: python tools/changelog/generate_cl.py

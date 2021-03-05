@@ -29,7 +29,7 @@ jobs:
           python tools/changelog/ss13_genchangelog.py html/changelog.html html/changelogs
       - name: Commit And Push
         run: |
-          git config --local user.email "place_holder"
+          git config --local user.email "80083319+BS12Changelogs@users.noreply.github.com"
           git config --local user.name "BS12Changelogs"
           git commit -m "Automatic changelog generation" -a
           git push https://${{ secrets.BOT_TOKEN }}:x-oauth-basic@github.com/Baystation12/Baystation12.git dev
