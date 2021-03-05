@@ -1,39 +1,6 @@
-# baystation12 [![CI Status](https://github.com/Baystation12/Baystation12/workflows/Run%20Tests/badge.svg)](https://github.com/Baystation12/Baystation12/actions)
+# My Immortal
+AN: Special fangz (get it, coz Im goffik) 2 my gf (ew not in that way) raven, bloodytearz666 4 helpin me wif da story and spelling. U rok! Justin ur da luv of my deprzzing life u rok 2! MCR ROX!
 
-[Website](https://baystation12.net/) - [Code](https://github.com/Baystation12/Baystation12/) - [Discord](https://discord.baystation12.net/) - [IRC](https://kiwiirc.com/client/irc.sorcery.net/codershuttle): irc://irc.sorcery.net/#codershuttle
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
----
-
-### CONTRIBUTING GUIDELINES
-
-**Please refrain from making non code related comments in pull requests on GitHub.** See the Code of Conduct on where you may provide feedback to users.
-
-All users are expected to review [/docs/CODE_OF_CONDUCT.md](/docs/CODE_OF_CONDUCT.md) before interacting with the repository or other users.
-
----
-
-### SECURITY
-
-Please see [/docs/SECURITY.md](/docs/SECURITY.md) for this repository's security policy, and how to report security issues.
-
----
-
-### LICENSE
-
-The code for Baystation12 is licensed under the [GNU Affero General Public License v3](https://www.gnu.org/licenses/agpl.html), which can be found in full in [/LICENSE](/LICENSE).
-
-Code with a git authorship date prior to `1420675200 +0000` (2015/01/08 00:00 GMT) is licensed under the GNU General Public License version 3, which can be found in full in [/docs/GPL3.txt](/docs/GPL3.txt)
-
-All code where the authorship dates on or after `1420675200 +0000` is assumed to be licensed under AGPL v3, if you wish to license under GPL v3 please make this clear in the commit message and any added files.
-
-If you wish to develop and host this codebase in a closed source manner you may use all commits prior to `1420675200 +0000`, which are licensed under GPL v3.  The major change here is that if you host a server using any code licensed under AGPLv3 you are required to provide full source code for your servers users as well including addons and modifications you have made.
-
-See [here](https://www.gnu.org/licenses/why-affero-gpl.html) for more information.
-
-All assets including icons and sound are under a [Creative Commons 3.0 BY-SA license](https://creativecommons.org/licenses/by-sa/3.0/) unless otherwise indicated.
-
----
-
-### GETTING THE CODE AND INSTALLING
-
-Please see [/docs/installation.md](/docs/installation.md) for instructions on obtaining, installing, updating, and running this code.
+Hi my name is Ebony Dark’ness Dementia Raven Way and I have long ebony black hair (that’s how I got my name) with purple streaks and red tips that reaches my mid-back and icy blue eyes like limpid tears and a lot of people tell me I look like Amy Lee (AN: if u don’t know who she is get da hell out of here!). I’m not related to Gerard Way but I wish I was because he’s a major fucking hottie. I’m a vampire but my teeth are straight and white. I have pale white skin. I’m also a witch, and I go to a magic school called Hogwarts in England where I’m in the seventh year (I’m seventeen). I’m a goth (in case you couldn’t tell) and I wear mostly black. I love Hot Topic and I buy all my clothes from there. For example today I was wearing a black corset with matching lace around it and a black leather miniskirt, pink fishnets and black combat boots. I was wearing black lipstick, white foundation, black eyeliner and red eye shadow. I was walking outside Hogwarts. It was snowing and raining so there was no sun, which I was very happy about. A lot of preps stared at me. I put up my middle finger at them.
